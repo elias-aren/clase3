@@ -1,2 +1,2 @@
-# clase3
+# ejercicio1
 Created with CodeSandbox
